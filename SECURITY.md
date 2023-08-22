@@ -1,5 +1,7 @@
 # Security Policy
 
+Feel free to download, build and use this source code. But never put it as commercial for others!
+
 ## Supported Versions
 
 Android: 4 and onwards      |
